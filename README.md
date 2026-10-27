@@ -1,7 +1,7 @@
 A small exploratory Python analysis of how bat body size and season relate to
 prey richness and the average body mass of prey.
 
-**Rendered notebook:** [PAGES LINK]
+**Rendered notebook:** [https://holzmann33.github.io/Relation-of-Bats-and-Prey/]
 
 ## What the notebook does
 - Loads and cleans a field dataset of 43 individual bats
