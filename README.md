@@ -17,11 +17,4 @@ With only 43 observations, most coefficients are not statistically significant,
 so the results should be read as exploratory. The Poisson model fit the count
 data better than the negative binomial (lower AIC, Pearson dispersion of about 0.87).
 
-## Data
-[Source of the dataset, and whether it is included in this folder.]
-
-## Reproducing
-Install the packages in the root `requirements.txt`, make sure
-`bat_prey_data.xlsx` is in this folder, and run the notebook from top to bottom.
-
 **Tools:** Python, pandas, NumPy, statsmodels
